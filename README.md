@@ -9,3 +9,4 @@ Future thinks I plan on using in conjunction:
 2. https://www.youtube.com/watch?v=GMppyAPbLYk
 3. https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 4. https://www.kindsonthegenius.com/how-to-create-an-api-in-python-with-flask-step-by-step/
+
